@@ -1,0 +1,2 @@
+﻿## Run api app 
+uvicorn main:app --reload
